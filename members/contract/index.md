@@ -2,7 +2,7 @@
 title: Contract
 published: true
 ---
-
+  
 ## Your Contract
 
 You can view the collective bargaining agreement below, or download a PDF copy.
@@ -14,7 +14,7 @@ You can view the collective bargaining agreement below, or download a PDF copy.
     View the signed version here
 </a>
 
-#### Historical Contracts
+### Historical Contracts
 
 <a href="https://drive.google.com/file/d/1RKx_rNubPfGRsk0Xr6IClqb9vGfBaICU/view?usp=sharing">
     2021-2023 Contract
