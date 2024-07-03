@@ -2,7 +2,6 @@
 title: Contract
 published: true
 ---
-  
 ## Your Contract
 
 You can view the collective bargaining agreement below, or download a PDF copy.
