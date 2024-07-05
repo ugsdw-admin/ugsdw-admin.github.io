@@ -1,6 +1,6 @@
 /**
  * Service Worker for offline use and speedier loads.
- */
+ 
 
 var log = false;
 
